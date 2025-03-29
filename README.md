@@ -59,6 +59,6 @@
 ## Github Stats
 
 <p display="flex" align="space-between">
-   <img  height="180rem" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DilanBernal28&layout=compact&theme=react" />
-   <img  height="180rem" src="https://streak-stats.demolab.com?user=DilanBernal28&theme=react" alt="GitHub Streak" /></a>
+   <img  height="180rem" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DilanBernal&layout=compact&theme=react" />
+   <img  height="180rem" src="https://streak-stats.demolab.com?user=DilanBernal&theme=react" alt="GitHub Streak" /></a>
 </p>
