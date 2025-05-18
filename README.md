@@ -15,7 +15,7 @@
 > 🎵 Fun fact: I love playing the guitar in my free time!  
 
 > 🕛 I’m currently learning:
->> ![Vue.js](https://img.shields.io/badge/Vue-%235A966C.svg?style=for-the-badge&logo=vue.js&logoColor=black)
+>> ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 >
 >> ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
 >
