@@ -17,11 +17,9 @@
 > 🕛 I’m currently learning:
 >> ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 >
->> ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
->
 >> ![Flutter](https://img.shields.io/badge/Flutter-%230862A8.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 >
->> ![ReactNative](https://img.shields.io/badge/ReactNative-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
+>> ![ReactNative](https://img.shields.io/badge/React_Native-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ## <img src="https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_1280.png" width="25px"> My Skills
 
@@ -42,9 +40,11 @@
 - **Back-End Development**:
   
   > ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  > ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
   
 - **Databases**:
 
+  > ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   > ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
