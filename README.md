@@ -42,6 +42,7 @@
   
   > ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   > ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
+  > ![Node.js](https://img.shields.io/badge/node.js-%3C873AA.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
 - **Databases**:
 
