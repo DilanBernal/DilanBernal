@@ -15,21 +15,21 @@
 > 🎵 Fun fact: I love playing the guitar in my free time!  
 
 > 🕛 I’m currently learning:
->> ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
->
 >> ![Flutter](https://img.shields.io/badge/Flutter-%230862A8.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 >
 >> ![ReactNative](https://img.shields.io/badge/React_Native-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
+>
+>> ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
 ## <img src="https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_1280.png" width="25px"> My Skills
 
 
 - **Languages**:
   
+  > ![C#](https://img.shields.io/badge/Csharp-%99CC00.svg?style=for-the-badge&logo=sharp&logoColor=white)
+  > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   > ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  > ![C#](https://img.shields.io/badge/Csharp-%99CC00.svg?style=for-the-badge&logo=sharp&logoColor=white)
     
 - **Front-End Development**:
 
@@ -37,16 +37,19 @@
   > ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   > ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   > ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  > ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 - **Back-End Development**:
   
   > ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   > ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
   > ![Node.js](https://img.shields.io/badge/node.js-%3C873AA.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  > ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   
 - **Databases**:
 
   > ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   > ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
