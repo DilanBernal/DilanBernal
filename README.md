@@ -38,13 +38,14 @@
   > ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   > ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   > ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
+  > ![NextJs](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 
 - **Back-End Development**:
   
-  > ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   > ![.NET](https://img.shields.io/badge/.NET-%23502BD3.svg?style=for-the-badge&logo=.net&logoColor=white)
   > ![Node.js](https://img.shields.io/badge/node.js-%3C873AA.svg?style=for-the-badge&logo=node.js&logoColor=white)
   > ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  > ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
 - **Databases**:
 
