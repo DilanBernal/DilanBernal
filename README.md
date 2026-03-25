@@ -15,9 +15,8 @@
 > 🎵 Fun fact: I love playing the guitar in my free time!  
 
 > 🕛 I’m currently learning:
->> ![Flutter](https://img.shields.io/badge/Flutter-%230862A8.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+>> 
 >
->> ![ReactNative](https://img.shields.io/badge/React_Native-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 >
 >> ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
@@ -30,6 +29,7 @@
   > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   > ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  > ![Dart](https://img.shields.io/badge/Dart%20-%23007ACC.svg?style=for-the-badge&logo=Dart&logoColor=black)
     
 - **Front-End Development**:
 
@@ -39,6 +39,10 @@
   > ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   > ![React](https://img.shields.io/badge/React-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
   > ![NextJs](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+
+- **Mobile Development**
+  > ![Flutter](https://img.shields.io/badge/Flutter-%230862A8.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  > ![ReactNative](https://img.shields.io/badge/React_Native-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 - **Back-End Development**:
   
