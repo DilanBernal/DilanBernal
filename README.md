@@ -14,12 +14,13 @@
 
 > 🎵 Fun fact: I love playing the guitar in my free time!  
 
+<!--
 > 🕛 I’m currently learning:
 >> 
 >
 >
 >> ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-
+-->
 ## <img src="https://cdn.pixabay.com/photo/2017/05/12/15/16/hexagon-2307350_1280.png" width="25px"> My Skills
 
 
